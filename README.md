@@ -10,3 +10,5 @@
 3 docker run -itd -p 3000:3000 -v {document_root}:/app -e CHOKIDAR_USEPOLLING=true --name node lzao/daily-corona-status:latest
 4 docker exec node npm start
 ```
+
+우하하
